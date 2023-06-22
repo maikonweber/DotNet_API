@@ -1,0 +1,15 @@
+# top-most EditorConfig file
+root = true
+
+# C# files
+[*.cs]
+
+# Indentation and spacing
+indent_style = space
+indent_size = 4
+trim_trailing_whitespace = true
+insert_final_newline = true
+
+# Encoding and line endings
+charset = utf-8
+end_of_line = lf
